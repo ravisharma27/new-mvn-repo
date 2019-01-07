@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>WebdriverTest</groupId>
+  <artifactId>WebdriverTest</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190103124722</lastUpdated>
+  </versioning>
+</metadata>
